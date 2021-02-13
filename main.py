@@ -157,8 +157,11 @@ def Init():
     token = config.get('token')
     try:
         Exeter.run(token, bot=False, reconnect=True)
+        os.system(f'title Exeter Selfbot ^| Loading')
     except discord.errors.LoginFailure:
-        print(f"\n\n\n\n\n\n\n\n\n                               {Fore.RED}[ERROR] {Fore.YELLOW}Invalid token! check your settings")
+        os.system(f'title Exeter Selfbot ^| Login Failed!')
+        print(f"\n\n\n\n\n\n\n\n\n\n\n                                  {Fore.RED}[ERROR] {Fore.YELLOW}Invalid token! check your settings")
+        os.system('pause >NUL')
 
 
 def async_executor():
