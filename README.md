@@ -19,7 +19,7 @@ pip install -r requirements.txt
 python exeter.py
 ```
 * Or run on [Repl.it](https://repl.it/claim?code=techwithtim) (Free hacker plan > [here](https://repl.it/claim?code=techwithtim) 
-[![Run on Repl.it](https://repl.it/badge/github/Alucard-Selfbot/Alucard-Selfbot-src)](https://repl.it/github/Alucard-Selfbot/Alucard-Selfbot-src)
+[![Run on Repl.it](https://repl.it/badge/github/k6d/exeter)](https://repl.it/github/k6d/exeter)
 
 ## Author
 
