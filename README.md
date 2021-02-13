@@ -21,7 +21,7 @@ python exeter.py
 
 ## Author
 
-* Discord: [igna#8359](https://discord.gg/H6MdBJEaBz)
+* Discord: [!   korea#4889](https://discord.gg/H6MdBJEaBz)
 
 * Github: [@k6d](https://github.com/k6d)
 
