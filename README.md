@@ -18,10 +18,13 @@ pip install -r requirements.txt
 ```sh
 python exeter.py
 ```
+(Free hacker plan > [here](https://repl.it/claim?code=techwithtim))
+
+[![Run on Repl.it](https://repl.it/badge/github/k6d/exeter)](https://repl.it/github/k6d/exeter) 
 
 ## Author
 
-* Discord: [igna#8359](https://discord.gg/H6MdBJEaBz)
+* Discord: [!   korea#4889](https://discord.gg/H6MdBJEaBz)
 
 * Github: [@k6d](https://github.com/k6d)
 
